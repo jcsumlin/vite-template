@@ -1,0 +1,9 @@
+build/
+node_modules/
+internals/generators/
+internals/scripts/
+pnpm-lock.yaml
+pnpm-workspace.yaml
+tsconfig.json
+tsconfig.node.json
+package.json
